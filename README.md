@@ -35,6 +35,7 @@
 ```bash
 .
 ├── mysql                   # 数据库文件夹 (.sql 文件，用于自动部署数据库)
+├── img                     #存放readme文件中的图片
 ├── backend-code            # Flask 后端代码
 ├── frontend-code           # Vue3 前端代码
 └── README.md               # 项目说明文件
