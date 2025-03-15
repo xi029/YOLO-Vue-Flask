@@ -1,0 +1,15 @@
+path: datasets
+train: images/train # train images (relative to 'path')  16551 images
+val: images/val # val images (relative to 'path')  4952 images
+
+# Classes
+nc: 5 # number of classes
+names:
+  0: good #井盖完好
+  1: broke #井盖破损
+  2: lose #井盖缺失
+  3: uncovered #井盖未盖
+  4: circle #井圈问题
+
+
+  # class names
